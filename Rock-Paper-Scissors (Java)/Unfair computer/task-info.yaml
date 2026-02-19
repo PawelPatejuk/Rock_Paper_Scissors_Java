@@ -1,0 +1,7 @@
+type: edu
+files:
+  - name: src/rockpaperscissors/Main.java
+    visible: true
+  - name: test/Tests.java
+    visible: false
+feedback_link: https://hyperskill.org/projects/314/stages/1764/implement#comment
